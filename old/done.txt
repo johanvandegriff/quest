@@ -1,0 +1,21 @@
+#       DONE:
+# move left and right in text fields
+# catch KeyboardInterrupt exceptions and save/quit
+# test on windows
+# save game
+# creature colors
+# add constants
+# remove dead rooms
+# generate monsters
+# have monsters travel between rooms
+# change " to '
+# have monsters attack
+# add monsters
+# fix raycaster
+# hide unseen doors in minimap
+# fix transitions between rooms
+# have player extend creature
+# display dungeon level
+# add special characters
+# level names
+# split display function into 3 windows: room, minimap, and stats

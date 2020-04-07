@@ -1,0 +1,31 @@
+	NEW FEATURES:
+have monsters attack
+generate monsters
+change Tile.isShown to be for each creature somehow
+have monsters travel between rooms
+have monsters follow player between rooms
+use level types to generate different layouts
+save game
+creature colors
+arrow keys double press controls (or wasd double press)
+town top level
+
+	INTERNAL FEATURES:
+change " to '
+level editor
+add comments and log values
+
+	BUGS:
+fix roomWin requiring 1 extra width or height to work
+going down a floor messes up?
+
+	DONE:
+add monsters
+fix raycaster
+hide unseen doors in minimap
+fix transitions between rooms
+have player extend creature
+display dungeon level
+add special characters
+level names
+split display function into 3 windows: room, minimap, and stats

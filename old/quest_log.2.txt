@@ -1,0 +1,19 @@
+==== Quest Log File ====
+Games will be saved in: /home/johanv/.quest/save
+Save Files: ['bob.save']
+key pressed: b
+key code: 98
+key pressed: o
+key code: 111
+key pressed: b
+key code: 98
+key pressed: 
+
+key code: 10
+Player Name: bob
+Save file path: /home/johanv/.quest/save/bob.save
+bob has a save file.
+Loading...
+Game loaded from: /home/johanv/.quest/save/bob.save
+Saving...
+Game saved at: /home/johanv/.quest/save/bob.save
